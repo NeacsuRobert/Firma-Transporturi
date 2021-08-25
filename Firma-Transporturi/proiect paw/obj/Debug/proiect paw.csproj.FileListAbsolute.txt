@@ -1,0 +1,36 @@
+C:\Users\Robert\source\repos\proiect paw\proiect paw\bin\Debug\proiect paw.exe.config
+C:\Users\Robert\source\repos\proiect paw\proiect paw\bin\Debug\proiect paw.exe
+C:\Users\Robert\source\repos\proiect paw\proiect paw\bin\Debug\proiect paw.pdb
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Debug\proiect_paw.Form1.resources
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Debug\proiect_paw.Properties.Resources.resources
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Debug\proiect paw.csproj.GenerateResource.cache
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Debug\proiect paw.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Debug\proiect paw.exe
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Debug\proiect paw.pdb
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Debug\proiect_paw.FormSoferi.resources
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Debug\proiect_paw.FormAdaugaSofer.resources
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Debug\proiect_paw.UserControlCategoriePermis.resources
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Debug\proiect paw.csprojAssemblyReference.cache
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Debug\proiect_paw.FormModificaSoferi.resources
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Debug\proiect_paw.FormMasini.resources
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Debug\proiect_paw.FormAdaugaMasini.resources
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Debug\proiect_paw.FormAdaugaTransport.resources
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Debug\proiect_paw.FormGrafic.resources
+C:\Users\Robert\source\repos\transporturi github\Firma-Transporturi\proiect paw\bin\Debug\proiect paw.exe.config
+C:\Users\Robert\source\repos\transporturi github\Firma-Transporturi\proiect paw\bin\Debug\proiect paw.exe
+C:\Users\Robert\source\repos\transporturi github\Firma-Transporturi\proiect paw\bin\Debug\proiect paw.pdb
+C:\Users\Robert\source\repos\transporturi github\Firma-Transporturi\proiect paw\obj\Debug\proiect paw.csprojAssemblyReference.cache
+C:\Users\Robert\source\repos\transporturi github\Firma-Transporturi\proiect paw\obj\Debug\proiect_paw.Form1.resources
+C:\Users\Robert\source\repos\transporturi github\Firma-Transporturi\proiect paw\obj\Debug\proiect_paw.FormAdaugaMasini.resources
+C:\Users\Robert\source\repos\transporturi github\Firma-Transporturi\proiect paw\obj\Debug\proiect_paw.FormAdaugaSofer.resources
+C:\Users\Robert\source\repos\transporturi github\Firma-Transporturi\proiect paw\obj\Debug\proiect_paw.FormAdaugaTransport.resources
+C:\Users\Robert\source\repos\transporturi github\Firma-Transporturi\proiect paw\obj\Debug\proiect_paw.FormGrafic.resources
+C:\Users\Robert\source\repos\transporturi github\Firma-Transporturi\proiect paw\obj\Debug\proiect_paw.FormMasini.resources
+C:\Users\Robert\source\repos\transporturi github\Firma-Transporturi\proiect paw\obj\Debug\proiect_paw.FormModificaSoferi.resources
+C:\Users\Robert\source\repos\transporturi github\Firma-Transporturi\proiect paw\obj\Debug\proiect_paw.FormSoferi.resources
+C:\Users\Robert\source\repos\transporturi github\Firma-Transporturi\proiect paw\obj\Debug\proiect_paw.Properties.Resources.resources
+C:\Users\Robert\source\repos\transporturi github\Firma-Transporturi\proiect paw\obj\Debug\proiect_paw.UserControlCategoriePermis.resources
+C:\Users\Robert\source\repos\transporturi github\Firma-Transporturi\proiect paw\obj\Debug\proiect paw.csproj.GenerateResource.cache
+C:\Users\Robert\source\repos\transporturi github\Firma-Transporturi\proiect paw\obj\Debug\proiect paw.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\transporturi github\Firma-Transporturi\proiect paw\obj\Debug\proiect paw.exe
+C:\Users\Robert\source\repos\transporturi github\Firma-Transporturi\proiect paw\obj\Debug\proiect paw.pdb

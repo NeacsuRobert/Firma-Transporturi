@@ -1,0 +1,15 @@
+C:\Users\Robert\source\repos\proiect paw\proiect paw\bin\Release\proiect paw.exe.config
+C:\Users\Robert\source\repos\proiect paw\proiect paw\bin\Release\proiect paw.exe
+C:\Users\Robert\source\repos\proiect paw\proiect paw\bin\Release\proiect paw.pdb
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Release\proiect_paw.Form1.resources
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Release\proiect_paw.FormAdaugaMasini.resources
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Release\proiect_paw.FormAdaugaSofer.resources
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Release\proiect_paw.FormMasini.resources
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Release\proiect_paw.FormModificaSoferi.resources
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Release\proiect_paw.FormSoferi.resources
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Release\proiect_paw.Properties.Resources.resources
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Release\proiect_paw.UserControlCategoriePermis.resources
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Release\proiect paw.csproj.GenerateResource.cache
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Release\proiect paw.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Release\proiect paw.exe
+C:\Users\Robert\source\repos\proiect paw\proiect paw\obj\Release\proiect paw.pdb
